@@ -19,7 +19,7 @@ def bonus
       ]
    }
   }
-  epic_tragedy.each {|status, alive| epic_tragedy[alive] = "dead"}
+ 
   
 
   
